@@ -10,4 +10,4 @@ An API key is required (I did not provide my own), the SLN project file for visu
 Useful for finding image diversity around Unsplash. (I have found quite a few really nice images with this program)
 
 # Video showing functionality
-[![Demonstration Video](https://github.com/ToxicFlame427/UnsplashRandomAPIScraper/blob/0182b0f2065df1fdcfbbe36fa04c776cb69a196b/thumbnail.png)](https://github.com/ToxicFlame427/UnsplashRandomAPIScraper/blob/9af1337f9aab8fc44325446a91f35d61a97b34c4/clip.mov)
+[![Demonstration Video](https://github.com/ToxicFlame427/UnsplashRandomAPIScraper/blob/0182b0f2065df1fdcfbbe36fa04c776cb69a196b/thumbnail.png)](https://youtu.be/HLxaCHpiJvY)
