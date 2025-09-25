@@ -8,3 +8,6 @@ These images will be downloaded to a relative `images` directory with random int
 An API key is required (I did not provide my own), the SLN project file for visual studio is available in the code files so it can be modified with your own key.
 
 Useful for finding image diversity around Unsplash. (I have found quite a few really nice images with this program)
+
+# Video showing functionality
+[![Demonstration Video](https://github.com/ToxicFlame427/UnsplashRandomAPIScraper/blob/0182b0f2065df1fdcfbbe36fa04c776cb69a196b/thumbnail.png)](https://github.com/ToxicFlame427/UnsplashRandomAPIScraper/blob/39a699f0618adf26f35771e10946d664821e7739/clip.mp4)
